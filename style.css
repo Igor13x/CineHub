@@ -1,0 +1,386 @@
+/*GERAL*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* IGOR */
+
+#Lista
+{
+    font-size: 2.5vw;
+}
+footer{
+    margin-top:5vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    height:10vw;
+    background-color: rgb(20, 21, 33);
+    width:98.63vw;
+}
+.us{
+    display: inline;
+    float: left;
+    margin-left: 3vw;
+    margin-top:1.5vw;
+}
+.help{
+    display: inline;
+    float: right;
+    margin-right: 22vw;
+    margin-top:1.5vw;
+}
+.us > a{
+    line-height:1.6vw;
+    font-size:1vw;
+    display: flex;
+}
+.help > a{
+    line-height:1.6vw;
+    font-size:1vw;
+    display: flex;
+}
+.us > h3{
+    line-height:1.6vw;
+    font-size:1.7vw;
+}
+.help > h3{
+    line-height:1.6vw;
+    font-size:1.7vw;
+}
+
+/* LAIARA */
+
+.Filme_acao_e_aventura{
+    margin-top: 2vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    margin-left: 3vw;
+}
+.Filme_Comedia{
+    margin-top: 2vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    margin-left: 3vw;
+}
+
+.Filme_Terror{
+    margin-top: 2vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    margin-left: 3vw;
+}
+
+.Filme_Ficcaoo_cientifica{
+    margin-top: 2vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    margin-left: 3vw;
+}
+
+.Filme_infantil{
+    margin-top: 2vw;
+    font-family: monospace, Helvetica, sans-serif;
+    color: white;
+    margin-left: 3vw;
+}
+.F {
+    width: 18vw;
+    height: 22vh;
+    margin-top: 2vh;
+    margin-left: 0.4vw;
+    background-color: #FFF;
+    display: inline-flex;
+}
+.div_do_filme {
+    
+    width: 20vw;
+    height: 25vh;
+    margin-top: 2vh;
+    display: inline-flex;
+    padding-right: 3vw;
+}
+
+.div_do_filme:hover
+{
+    transform:scale(1.04);
+    transition:200ms linear;
+}
+
+
+
+/* GUILHERME */
+.S {
+    width: 23.75vw;
+    height: auto;
+    margin-top: 2vh;
+    display:flex;
+    image-rendering: optimizeSpeed;
+}
+.S > img{
+    width:23vw;
+    height:auto;
+}
+.mais
+{
+    float: right;
+    position: absolute;
+}
+a:hover{
+    color: rgb(48, 48, 187);
+}
+a{
+    text-decoration: none;
+    color: rgb(111, 111, 168);
+    font-size: 1.3vw;
+}
+.S:hover
+{
+    transform:scale(1.04);
+    transition:200ms linear;
+    transition-delay: 5ms;
+    color: rgb(26, 26, 83);
+}
+#fav{
+    width: 2.3vw;
+    height:auto;
+    position: absolute;
+}
+.Ação
+{
+    width:95.63vw;
+    margin-top: 2vw;
+    margin-left: 3vw;
+}
+.Ação > h2{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size:1.7vw;
+}
+
+
+
+
+
+
+/* FELIPE */
+body{
+    background-color:rgb(9, 14, 44);
+    width:98.63vw;
+}
+header{
+    background-color: rgb(20, 21, 33);
+    height:8vw;
+    width:98.63vw;
+    margin-top:-0.9vw;
+    display:flex;
+    overflow:hidden;
+    border:1px solid;
+    border-color:rgb(38, 38, 38);
+    position:sticky;
+    top:0;
+    z-index:999;
+}
+.imglogo{
+    width:6.5vw;
+    height:6.5vw;
+    float:left;
+    display:block;
+    border-radius:50%;
+    margin-top:0.9vw;
+    margin-left:1vw;
+    margin-right:1vw;
+}
+h1{
+    font-size:2.8vw;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    margin-top:2.3vw;
+    margin-right:7vw;
+}
+h1:hover{
+    opacity:0.99;
+    transform:scale(0.97);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.home{
+    float:left;
+    width:auto;
+    margin-top:1.9vw;
+    margin-right:3vw;
+}
+.imglogo:hover{
+    opacity:0.99;
+    transform:scale(1.1);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.home > img{
+    height:5vw;
+    width:5vw;
+    border-radius:50%;
+    float:left;
+    display:block;
+    margin-right:0.5vw;
+}
+.home:hover{
+    transform:scale(1.04);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.home > a{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:2.3vw;
+    text-decoration:none;
+    float:left;
+    margin-top:0.9vw;
+}
+.filmes{
+    float:left;
+    margin-top:1.9vw;
+    margin-right:3vw;
+}
+.filmes > img{
+    height:5vw;
+    width:5vw;
+    float:left;
+    display:block;
+    border-radius:50%;
+    margin-right:0.5vw;
+}
+.filmes:hover{
+    transform:scale(1.04);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.filmes > a{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:2.3vw;
+    float:left;
+    text-decoration:none;
+    margin-top:0.9vw;
+}
+.series{
+    float:left;
+    margin-top:1.9vw;
+    margin-right:3vw;
+}
+.series > img{
+    height:5vw;
+    width:5vw;
+    float:left;
+    display:block;
+    border-radius:50%;
+    margin-right:0.5vw;
+}
+.series:hover{
+    transform:scale(1.04);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.series > a{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:2.3vw;
+    float:left;
+    text-decoration:none;
+    margin-top:0.9vw;
+}
+.favoritos{
+    float:left;
+    margin-top:1.9vw;
+    margin-right:2.5vw;
+}
+.favoritos > img{
+    height:5vw;
+    width:5vw;
+    float:left;
+    display:block;
+    border-radius:50%;
+    margin-right:0.5vw;
+}
+.favoritos:hover{
+    transform:scale(1.04);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.favoritos > a{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:2.3vw;
+    float:left;
+    text-decoration:none;
+    margin-top:0.9vw;
+}
+.pesquisa{
+    height:4.1vw;
+    width:4.1vw;
+    float:right;
+    display:block;
+    border-radius:50%;
+    margin-top:2.3vw;
+    margin-left:5.5vw;
+}
+.pesquisa:hover{
+    opacity:0.7;
+    transform:scale(0.95);
+    transition:200ms linear;
+    cursor:text;
+}
+
+
+/*Pra cima é header*/
+
+
+.destaque{
+    width:98.63vw;
+    height:auto;
+    overflow:hidden;
+    margin-top:2.3vw;
+}
+.hdestaque{
+    font-family:Helvetica, sans-serif, arial;
+    color:rgb(110, 97, 223);
+    font-size:2.08vw;
+    margin-left:3.5vw;
+    float:left;
+    padding-left:3.5vw;
+    padding-right:3.5vw;
+    line-height:4vw;
+    position:relative;
+    margin-right:70vw;
+}
+.hdestaque:hover{
+    opacity:0.8;
+    transition:200ms linear;
+}
+.destaque > img{
+    width:92vw;
+    height:auto;
+    margin-left:3.2vw;
+}
+.destaque > img:hover{
+    opacity:0.9;
+    transform:scale(0.99);
+    transition:200ms linear;
+    cursor:pointer;
+}
+.linhas{
+    display:flex;
+    width:95.63vw;
+}
+.linhas > img:hover{
+    opacity:0.9;
+    transform:scale(1.04);
+    transition:200ms linear;
+    cursor:pointer;
+}
+@media only screen and (max-width: 768px) {
+    
+}
