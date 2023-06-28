@@ -1,0 +1,54 @@
+Critérios de Avaliação
+
+1. Design responsivo: O site deve ser responsivo, ou seja, 
+que se adapte a diferentes dispositivos (desktop, tablet, smartphone). 
+Isso te ajudará a entender a importância de criar sites que ofereçam 
+uma experiência consistente e de qualidade em diferentes plataformas.
+
+2. Usabilidade e acessibilidade: Siga os princípios de usabilidade e 
+acessibilidade em seus projetos. Considere a experiência do usuário, 
+a navegabilidade, a legibilidade do conteúdo, a consistência visual
+ e a compatibilidade com leitores de tela.
+
+3. Identidade visual e design: Crie uma identidade visual atraente 
+e coerente para o site. Explore elementos de design como cores, 
+tipografia, ícones e imagens para transmitir a proposta do site e 
+sua funcionalidade.
+
+4. Conteúdo relevante: Desenvolva conteúdo relevante para o site, 
+considerando o público-alvo e os objetivos do projeto. Crie textos 
+concisos, claros e persuasivos, além de selecionar e otimizar imagens 
+apropriadas.
+
+5. SEO (Search Engine Optimization): Otimize o site para mecanismos 
+de busca. Eles devem utilizar técnicas adequadas de otimização de 
+palavras-chave, metatags e estrutura de URLs para melhorar a 
+visibilidade do site nos resultados de busca.
+
+6. Integração de mídias sociais: Inclua recursos de mídias 
+sociais em seus sites, como links para perfis sociais, botões 
+de compartilhamento e feeds de mídia social. Isso ajudará a 
+promover o engajamento e a interação com o público-alvo.
+
+7. Apresentação de slides persuasiva: Além do desenvolvimento 
+do site, prepare uma apresentação de slides persuasiva para 
+"vender" o site para a turma. Você deve destacar os aspectos 
+mais importantes do projeto, incluindo design, funcionalidades, 
+usabilidade e benefícios para os usuários.
+
+8. Trabalho em grupo: Promova a colaboração entre os 
+colegas, experimente a dinâmica de trabalho em grupo, 
+melhorem suas habilidades de comunicação e aprenda a 
+dividir tarefas e responsabilidades.
+
+
+
+************************************************************
+Mínimo três páginas HTML secundárias, ou seja, além da primária (index.html);
+
+Um CSS externo apenas;
+
+Hospede o site em uma ferramenta gratuita;
+
+Faça o protótipo do site no Figma.
+************************************************************
